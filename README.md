@@ -1,2 +1,2 @@
 # finder
-An wallet application to pay for services
+A wallet application to pay for services using paystack APIs
